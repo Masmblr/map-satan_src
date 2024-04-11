@@ -21,10 +21,10 @@ Map Description:
 [<img src="meta/preview_levelshots/8.jpg" width="250"/>](meta/preview_levelshots/8.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 0.1     | 18/07/2013  | alpha | :x:        |     
-| 1.0     | 21/08/2021  | final | [💾](https://github.com/Masmblr/map-Satan_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 0.1     | 18/07/2013  | alpha |
+| 1.0     | 21/08/2021  | release |
 
 ## How-To
 **Binary**:
@@ -131,7 +131,7 @@ textures\satan\light_03\light_03_white_add.jpg <sup>[1](#Credit-1)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
